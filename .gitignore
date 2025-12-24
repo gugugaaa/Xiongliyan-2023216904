@@ -1,0 +1,6 @@
+.venv/
+*.pyc
+__pycache__/
+task2/
+task1/tsukuba/
+*.png
