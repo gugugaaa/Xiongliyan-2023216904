@@ -7,3 +7,4 @@ task3/tsukuba/
 *.pth
 *.npy
 *.mp4
+*.pt

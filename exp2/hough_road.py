@@ -86,7 +86,7 @@ def lane_detection_pipeline(frame):
 # --- RUN THE CODE ---
 if __name__ == "__main__":
     # 1. 处理 road.mp4
-    cap = cv2.VideoCapture('road.mp4')
+    cap = cv2.VideoCapture('properties/road.mp4')
     while cap.isOpened():
         ret, frame = cap.read()
         if not ret:

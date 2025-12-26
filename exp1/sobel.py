@@ -85,7 +85,7 @@ def manual_lbp_texture(image):
 
 def main():
     # --- A. 读取图像 (Task Input) ---
-    img_path = 'rgb.png'
+    img_path = 'properties/rgb.png'
     
     # 如果没有图片，生成一个简单的测试图
     if not os.path.exists(img_path):

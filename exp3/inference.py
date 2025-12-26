@@ -120,4 +120,4 @@ def predict_student_id(image_path, model_path):
 
 if __name__ == '__main__':
     # 替换成你的照片文件名
-    predict_student_id('my_id.png', 'exp2/mnist_cnn.pth')
+    predict_student_id('properties/my_id.png', 'properties/mnist_cnn.pth')
