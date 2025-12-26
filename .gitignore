@@ -4,3 +4,5 @@ __pycache__/
 task1/tsukuba/
 *.png
 task3/tsukuba/
+*.pth
+*.npy
