@@ -1,6 +1,7 @@
-> 作者：熊立言，2023216904，智科23-2班
-
-**代码**：实验i对应exp{i}/文件夹
+> _==**作者：熊立言，2023216904，智科23-2班**==_
+> 
+> 
+**代码和结果**：实验i 对应 exp{i}/
 
 **实验报告**：写在一块儿（实验报告.pdf）
 
@@ -22,5 +23,3 @@
 - 模型文件：
   - YOLOv8 目标检测模型：[yolo11n.pt (ultralytics)](https://github.com/ultralytics/assets/releases/download/v8.3.0/yolo11n.pt)
   - MNIST 模型：[Kaggle MNIST](https://www.kaggle.com/code/codingbearhsun/mnist-cv-exp3/output?scriptVersionId=288413030)
-
-- 运行结果见[实验报告.pdf](实验报告.pdf)
